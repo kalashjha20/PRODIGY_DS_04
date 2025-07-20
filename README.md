@@ -1,5 +1,5 @@
 # PRODIGY_DS_04
-### Welcome to my submission for Task 4 of the Data Science Internship at Prodigy Infotech. In this task, O have performed analysis and visualiziation of sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+### Welcome to my submission for Task 4 of the Data Science Internship at Prodigy Infotech. In this task, I have performed analysis and visualiziation of sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 ## Tools And Libraries Used:
 ### -> jupyter notebook
 ### -> numpy
